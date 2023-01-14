@@ -17,7 +17,7 @@ export default function Welcome (props) {
   }
 
   useEffect(() => {
-    console.log("HACIENDO EFECTO")
+    console.log("Making effect")
   }, [lastName])
 
   return (

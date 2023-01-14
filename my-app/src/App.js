@@ -4,7 +4,7 @@ import Welcome from "./Welcome.jsx";
 const App = () => {
   return(
     <div className="App">
-      <Welcome name="Biyo" direcction="Av. Siempre viva 123" />
+      <Welcome name="Pablo" direcction="Av. Siempreviva 123" />
     </div>
   );
 }
